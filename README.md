@@ -62,15 +62,51 @@ In addition,during COIN state(task 3), user does not press any button within the
 <strong>Solution in action</strong>
 
 ***
-
-(videos to be added)
-
 <strong>TASK 1</strong>
+
+<div class="embed-container">
+  <iframe
+      src="https://youtube.com/embed/w3tbH47_ZbM"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
 <strong>TASK 2</strong>
 
+<div class="embed-container">
+  <iframe
+      src="https://youtube.com/embed/N_VRto3Au94"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 <strong>TASK 3</strong>
 
-<strong>TASK 4A</strong>
+<div class="embed-container">
+  <iframe
+      src="https://youtube.com/embed/QQ1-BU1P8tY"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
-<strong>TASK 4B</strong>
+<strong>TASK 4</strong>
+
+<div class="embed-container">
+  <iframe
+      src="https://youtube.com/embed/kNeVc25HB6w"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
