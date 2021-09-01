@@ -9,8 +9,9 @@ This is a showcase of an FPGA project I did while in Singapore Polytechnic
 
 In this assignment, students are required to design and implement a digital system using synchronous sequential logic using finite state machines(FSM) in Verilog on a Basys-3 FPGA board.
 
-|![Basys-3](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/Basys-3.jpg)|
-|<em>A Basys-3 board</em>|
+![Basys-3](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/Basys-3.jpg)
+
+<em>A Basys-3 board</em>
 
 ***
 
@@ -19,13 +20,15 @@ In this assignment, students are required to design and implement a digital syst
 ***
 Students are to design a generic Vending machine that will dispense a product of 3 different price points. The block diagram of the Vending machine controller is shown below.
 
-|![BlockDiagram](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/BlockDiagram.png)|
-|<em>Vending Machine block diagram</em>|
+![BlockDiagram](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/BlockDiagram.png)
+
+<em>Vending Machine block diagram</em>
 
 The clock comes from the oscillator of the Basys3 board and has a frequency of 100 MHz.DIP switches are used to select the size of the product to purchase, 3 LEDs are used to show which product is to be dispensed when the correct amount of money is inserted. The 7-segment display is used to show the amount of money inserted. The push buttons are used to input the money into the machine as shown Below. Only denomination of $2, $5 and $10 will be accepted by the machine.
 
-|![MoneyTable](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/MoneyTable.png)|
-|<em>Money table</em>|
+![MoneyTable](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/MoneyTable.png)
+
+<em>Money table</em>
 
 <strong>Operations of the vending machine</strong>
 
