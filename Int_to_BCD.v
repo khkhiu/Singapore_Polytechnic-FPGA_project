@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
 
-//module Int_to_BCD(int, bcd);
-//    input [6:0] int; // Range: 0 to 99
-//	output reg [15:0] bcd; // 4-digit (16-bit)
 module Int_to_BCD(money, bcd);
     input [9:0] money; // Range: 0 to 99
 	output reg [15:0] bcd; // 4-digit (16-bit)
@@ -13,7 +10,6 @@ module Int_to_BCD(money, bcd);
     wire [3:0] d3, d2, d1, d0; //Range: 0 to 9
     wire [3:0] x3, x2; //Range: 0 to 9
     
-    //assign n = (int > MAX)? MAX : int; //n = MAX if (int > MAX), else n = int. Hence limiting n to MAX
     assign n = (money > MAX)? MAX : money; //n = MAX if (int > MAX), else n = int. Hence limiting n to MAX
 
     assign d0 = n % 10;         //BCD LSB  

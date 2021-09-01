@@ -1,6 +1,6 @@
 `timescale 1ns / 1ns
 
-module LA21s1(
+module VendMachine(
     // I/O specifications
 	input wire clk, btnU, btnL, btnR, btnD, btnC,// input, clk and pushbutton
 	input wire [3:1] sw,//Switches 1,2,3 in use

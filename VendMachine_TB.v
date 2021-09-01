@@ -1,13 +1,13 @@
 `timescale 1ns / 1ns
 
-module LA21s1_TB();
+module VendMachine_TB();
     reg clk=0, btnU=0, btnL=0, btnR=0, btnD=0, btnC=0;
     reg [15:0] sw=0;
     wire [3:0] an; //Anodes
     wire [0:7] seg; //Segment a..g, dp
     wire [15:0] led;
     
-    LA21s1 dut(clk, btnU, btnL, btnR, btnD, btnC, sw, an, seg, led);
+    VendMachine dut(clk, btnU, btnL, btnR, btnD, btnC, sw, an, seg, led);
 
     always #5 clk = ~clk;
 
