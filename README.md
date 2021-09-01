@@ -22,6 +22,9 @@ Students are to design a generic Vending machine that will dispense a product of
 
 ![BlockDiagram](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/BlockDiagram.png)
 
+![FlowChart](https://github.com/khkhiu/Singapore_Polytechnic-FPGA_project/blob/main/img/FlowChart.png)
+<em>Vending Machine flow chart</em>
+
 <em>Vending Machine block diagram</em>
 
 The clock comes from the oscillator of the Basys3 board and has a frequency of 100 MHz.DIP switches are used to select the size of the product to purchase, 3 LEDs are used to show which product is to be dispensed when the correct amount of money is inserted. The 7-segment display is used to show the amount of money inserted. The push buttons are used to input the money into the machine as shown Below. Only denomination of $2, $5 and $10 will be accepted by the machine.
