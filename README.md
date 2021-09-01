@@ -56,6 +56,18 @@ In addition,during COIN state(task 3), user does not press any button within the
 
 ***
 
-<strong>Solution</strong>
+<strong>Solution in action</strong>
 
 ***
+
+(videos to be added)
+
+<strong>TASK 1</strong>
+
+<strong>TASK 2</strong>
+
+<strong>TASK 3</strong>
+
+<strong>TASK 4A</strong>
+
+<strong>TASK 4B</strong>
